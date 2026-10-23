@@ -10,7 +10,7 @@ La miniaplicación se conecta a la API de Google Gemini, calcula latencia y cost
 gate_1/
 ├── bloque_11/
 │   ├── docs/
-│   │   └── diagrama.png             # Diagrama de arquitectura
+│   │   └── diagrama_gate1.png             # Diagrama de arquitectura
 │   └── src/
 │       ├── cliente_gemini.py        # Conexión a la API: armar, enviar y extraer
 │       ├── banco.py                 # Banco de 3 prompts con salida JSON
