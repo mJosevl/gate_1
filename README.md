@@ -36,7 +36,7 @@ Los pasos 1 a 4 se ejecutan desde la **raíz del repositorio**, donde está este
 ### Paso 1: Clonar el repositorio
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/mJosevl/gate_1.git
 cd gate_1
 ```
 
