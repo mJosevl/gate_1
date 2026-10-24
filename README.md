@@ -34,6 +34,16 @@ gate_1/
 Los pasos 1 a 4 se ejecutan desde la **raíz del repositorio**, donde está este README.
 
 ### Paso 1: Clonar el repositorio
+¿Dónde escribo los comandos?
+
+Puedes usar cualquiera de estas terminales. Si nunca has usado una, te recomendamos la primera:
+
+- **Terminal de VS Code (recomendada):** abre VS Code, ve a **File → Open Folder**, elige la carpeta del proyecto y abre la terminal con **Terminal → New Terminal**. En Windows usa PowerShell, así que sigue los comandos marcados como *Windows*.
+- **PowerShell (Windows):** búscala en el menú Inicio. Usa los comandos marcados como *Windows*.
+- **Terminal (Mac / Linux):** usa los comandos marcados como *Mac / Linux*.
+- **Git Bash (Windows):** usa los comandos de *Mac / Linux*, salvo para activar el entorno virtual, que en Git Bash es `source venv/Scripts/activate`.
+
+Para pegar texto en la terminal, si Ctrl+V no funciona, usa clic derecho o Shift+Insert.
 
 ```bash
 git clone https://github.com/mJosevl/gate_1.git
