@@ -123,6 +123,9 @@ Test de consistencia del banco de prompts:
 ```bash
 python test_consistencia.py   # Mac/Linux: python3 test_consistencia.py
 ```
+Nota sobre el tiempo de ejecución:
+
+Si la prueba tarda unos segundos o parece pausarse entre peticiones, no te preocupes ni canceles el proceso. Al utilizar el nivel gratuito (free tier) de la API de Gemini, la latencia puede variar y el script incluye reintentos automáticos para manejar los límites de frecuencia de la API de forma segura.
 
 Salida esperada del test:
 
