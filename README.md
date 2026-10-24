@@ -77,10 +77,12 @@ pip install -r requirements.txt
 ### Paso 4: Configurar la API key
 
 **Cómo obtener tu API key:**
-1. Entra a https://aistudio.google.com/apikey con tu cuenta de Google.
-2. Haz clic en **Create API key**.
-3. Copia la clave con el ícono de copiar que aparece a su lado.
-El archivo `.env` no viene en el repositorio porque contiene la clave privada de cada persona (está excluido en `.gitignore`). Se crea copiando la plantilla:
+1. Entra a https://aistudio.google.com/apikey e inicia sesión con tu cuenta de Google.
+2. Haz clic en **Create API key** (en español: **Crear clave de API**).
+3. Ponle un nombre a la clave, o deja el que aparece por defecto.
+4. Elige un proyecto. Si no tienes ninguno, selecciona **Crear proyecto**, ponle un nombre (por ejemplo, `gate1`) y confírmalo.
+5. Cuando aparezca la clave, cópiala con el ícono de copiar que está a su lado. Guárdala, porque la vas a pegar en el siguiente paso.
+
 
 Windows:
 
